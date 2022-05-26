@@ -38,7 +38,7 @@
 .task {
   width: 56%;
   display: inline-block;
-  flex-grow: 1
+  flex-grow: 1;
 }
 
 .row {
@@ -138,7 +138,7 @@ input,button{
 }
 
 .part > .txt {
-  width: 226px
+  width: 226px;
 }
 
 .del-img {
@@ -159,7 +159,7 @@ input,button{
 
 /* Edit Task */
 .part .txt {
-  display: none
+  display: none;
 }
 
 .edit-mode .txt {
