@@ -160,7 +160,7 @@ button {
 }
 
 /* Edit Task */
-.part .txt {
+.part .hide {
   display: none;
 }
 
